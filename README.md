@@ -65,36 +65,36 @@
 
 Funcionais:
 
--ter lista de alunos que foram excluidos
--ter lista de funcionarios que foram excluidos
--ter lista de cursos que foram excluidos
--ter sistema de recuperação de alunos que foram excluidos
--ter sistema de recuperação de funcionarios que foram excluidos
--ter sistema de recuperação de cursos que foram excluidos
--ter sistema de recuperação de matrículas que foram excluidas
+- ter lista de alunos que foram excluidos
+- ter lista de funcionarios que foram excluidos
+- ter lista de cursos que foram excluidos
+- ter sistema de recuperação de alunos que foram excluidos
+- ter sistema de recuperação de funcionarios que foram excluidos
+- ter sistema de recuperação de cursos que foram excluidos
+- ter sistema de recuperação de matrículas que foram excluidas
 
 Não funcionais:
 
--senha ter mais de 8 caracteres
--senha ter letra maiuscula
--senha ter letra minuscula
--senha ter caractere especial
--não pode copiar senha
--não pode colar senha
--o funcionario não pode trocar suas informações em um intervalo de 30 dias desde a ultima alteração
--o aluno não pode trocar suas informações em um intervalo de 30 dias desde a ultima alteração
--o admin não pode trocar as informações de um curso em um intervalo de 30 dias desde a ultima alteração
--o admin não pode trocar as informações de um funcionário em um intervalo de 30 dias desde a ultima alteração
--o aluno só pode trocar de email com uma confirmação de uma mensagem de alerta enviada ao outro email
--o funcionario só pode trocar de email com uma confirmação de uma mensagem de alerta enviada ao outro email
--o aluno não pode trocar de CPF
--o profissional não pode trocar de CPF
--o aluno não pode alterar a data de nascimento
--o profissional não pode alterar a data de nascimento
--o Adimin não pode alterar as informações de um aluno
--o aluno não pode alterar as informações do profissional
--o aluno não pode alterar as informações do admin
--o profissional não pode alterar as informações do aluno
--o profissional não pode alterar as informações do admin
--alunos excluidos não tem mais acesso ao sistema
--profissionais excluidos não tem mais acesso ao sistema
+- senha ter mais de 8 caracteres
+- senha ter letra maiuscula
+- senha ter letra minuscula
+- senha ter caractere especial
+- não pode copiar senha
+- não pode colar senha
+- o funcionario não pode trocar suas informações em um intervalo de 30 dias desde a ultima alteração
+- o aluno não pode trocar suas informações em um intervalo de 30 dias desde a ultima alteração
+- o admin não pode trocar as informações de um curso em um intervalo de 30 dias desde a ultima alteração
+- o admin não pode trocar as informações de um funcionário em um intervalo de 30 dias desde a ultima alteração
+- o aluno só pode trocar de email com uma confirmação de uma mensagem de alerta enviada ao outro email
+- o funcionario só pode trocar de email com uma confirmação de uma mensagem de alerta enviada ao outro email
+- o aluno não pode trocar de CPF
+- o profissional não pode trocar de CPF
+- o aluno não pode alterar a data de nascimento
+- o profissional não pode alterar a data de nascimento
+- o Adimin não pode alterar as informações de um aluno
+- o aluno não pode alterar as informações do profissional
+- o aluno não pode alterar as informações do admin
+- o profissional não pode alterar as informações do aluno
+- o profissional não pode alterar as informações do admin
+- alunos excluidos não tem mais acesso ao sistema
+- profissionais excluidos não tem mais acesso ao sistema
