@@ -53,6 +53,13 @@
   - Excluir os funcionários
   - Excluir os cursos
   - Excluir as matrículas
+  - Login de usuários
+  - Buscar aluno pelo nome
+  - Buscar aluno pelo CPF
+  - Buscar funcionário pelo nome
+  - Buscar funcionário pelo CPF
+  - Mostrar os cursos em que cada aluno está matriculado
+  - Mostrar os alunos que estão matriculados em cada curso
 
 2. Requisitos não Funcionais:
   - Autenticação
@@ -60,41 +67,14 @@
   - Interface responsiva e adaptativa à diversas resoluções de tela e dispositivos diferentes, como computador, celular e tablet
   - Interface deve ser compatível com os principais navegadores web
   - Criptografar as senhas antes de salvá-las no banco de dados
+  - Disponível durante todo o horário de funcionamento da instituição
+  - Restringir acesso pelo tipo de usuário
 
-## ATIVIDADE:
-
-Funcionais:
-
-- ter lista de alunos que foram excluidos
-- ter lista de funcionarios que foram excluidos
-- ter lista de cursos que foram excluidos
-- ter sistema de recuperação de alunos que foram excluidos
-- ter sistema de recuperação de funcionarios que foram excluidos
-- ter sistema de recuperação de cursos que foram excluidos
-- ter sistema de recuperação de matrículas que foram excluidas
-
-Não funcionais:
-
-- senha ter mais de 8 caracteres
-- senha ter letra maiuscula
-- senha ter letra minuscula
-- senha ter caractere especial
-- não pode copiar senha
-- não pode colar senha
-- o funcionario não pode trocar suas informações em um intervalo de 30 dias desde a ultima alteração
-- o aluno não pode trocar suas informações em um intervalo de 30 dias desde a ultima alteração
-- o admin não pode trocar as informações de um curso em um intervalo de 30 dias desde a ultima alteração
-- o admin não pode trocar as informações de um funcionário em um intervalo de 30 dias desde a ultima alteração
-- o aluno só pode trocar de email com uma confirmação de uma mensagem de alerta enviada ao outro email
-- o funcionario só pode trocar de email com uma confirmação de uma mensagem de alerta enviada ao outro email
-- o aluno não pode trocar de CPF
-- o profissional não pode trocar de CPF
-- o aluno não pode alterar a data de nascimento
-- o profissional não pode alterar a data de nascimento
-- o Adimin não pode alterar as informações de um aluno
-- o aluno não pode alterar as informações do profissional
-- o aluno não pode alterar as informações do admin
-- o profissional não pode alterar as informações do aluno
-- o profissional não pode alterar as informações do admin
-- alunos excluidos não tem mais acesso ao sistema
-- profissionais excluidos não tem mais acesso ao sistema
+## REGRAS DE NEGÓCIO:
+- CPF de cada aluno deve ser único
+- CPF de cada funcionário deve ser único
+- Email de cada funcionário deve ser único
+- A matrícula de cada aluno deve ser única
+- Nome de cada curso deve ser único
+- Impedir exclusão de cursos que tenham alunos matriculados
+- Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
