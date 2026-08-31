@@ -32,7 +32,7 @@
  - Permite cadastrar, editar, listar e deletar alunos, cursos, matrículas e funcionários
 
 ## MODELO DE NEGÓCIO:
-  ![Business Model Canvas](./Captura%20de%20tela%202026-08-25%20170410.png)
+  ![Business Model Canvas](imagens/a.png)
 
 ## REQUISITOS:
 1. Requisitos Funcionais:
@@ -78,3 +78,6 @@
 - Nome de cada curso deve ser único
 - Impedir exclusão de cursos que tenham alunos matriculados
 - Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
+
+## CASO DE USO:
+  ![Business Model Canvas](imagens/b.png)
