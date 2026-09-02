@@ -80,4 +80,7 @@
 - Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
 
 ## CASO DE USO:
-  ![Business Model Canvas](imagens/b.png)
+  ![Business Model Canvas](imagens/d.png)
+
+## Classes:
+  ![Classes](imagens/c.png)
