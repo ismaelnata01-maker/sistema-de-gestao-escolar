@@ -86,17 +86,22 @@
   ![Classes](imagens/c.png)
 
 ## Sequências:
-  Login
+  Login:
+  
   ![Login](imagens/e.png)
 
   Cadastro funcionário:
+
   ![Cadastro funcionário](imagens/f.png)
 
   Cadastro aluno:
+
   ![Cadastro aluno](imagens/g.png)
 
   Cadastro curso:
+
   ![Cadastro curso](imagens/h.png)
 
   Lista funcionários:
+
   ![Lista funcionários](imagens/i.png)
