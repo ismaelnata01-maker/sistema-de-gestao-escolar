@@ -105,3 +105,27 @@
   Lista funcionários:
 
   ![Lista funcionários](imagens/i.png)
+
+  Lista alunos:
+
+  ![Lista alunos](imagens/j.png)
+
+  Lista cursos:
+
+  ![Lista cursos](imagens/l.png)
+
+  Mostra dados do aluno:
+
+  ![dados do aluno](imagens/k.png)
+
+  Mostra dados do curso:
+
+  ![dados do curso](imagens/m.png)
+
+  Mostra dados do funcionario:
+
+  ![dados do funcionario](imagens/n.png)
+
+  Editar dados do aluno:
+
+  ![editar dados do aluno](imagens/n.png)
