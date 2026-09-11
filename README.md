@@ -128,4 +128,48 @@
 
   Editar dados do aluno:
 
-  ![editar dados do aluno](imagens/n.png)
+  ![editar dados do aluno](imagens/o.png)
+
+  Editar dados do curso:
+
+  ![editar dados do curso](imagens/p.png)
+
+  Editar dados do funcionario:
+
+  ![editar dados do funcionario](imagens/q.png)
+
+  Excluir alunos:
+
+  ![excluir alunos](imagens/r.png)
+
+  Excluir cursos:
+
+  ![excluir cursos](imagens/s.png)
+
+  Excluir funcionarios:
+
+  ![excluir funcionarios](imagens/t.png)
+
+  Busca alunos pelo nome:
+
+  ![busca aluno pelo nome](imagens/u.png)
+
+  Busca alunos pelo CPF:
+
+  ![busca aluno pelo CPF](imagens/v.png)
+
+  Busca funcionario pelo nome:
+
+  ![busca funcionario pelo nome](imagens/w.png)
+
+  Busca funcionario pelo CPF:
+
+  ![busca funcionario pelo CPF](imagens/x.png)
+
+  Realizar matriculas:
+
+  ![realizar matriculas](imagens/y.png)
+
+  excluir matriculas:
+
+  ![excluir matriculas](imagens/z.png)
