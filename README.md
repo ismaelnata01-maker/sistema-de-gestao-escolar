@@ -173,3 +173,7 @@
   excluir matriculas:
 
   ![excluir matriculas](imagens/z.png)
+
+  ## UX/UI:
+
+  [Acesse o Figma](https://www.figma.com/design/gF56bLTmuWnt73KCzqD05p/Sistema-de-Gest%25C3%25A3o-Escolar?node-id=0-1&p=f&t=3VMEmH4Ok2xmzGTM-0)
